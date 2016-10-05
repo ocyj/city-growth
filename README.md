@@ -2,6 +2,8 @@
 
 This is a simulation created in MATLAB to investigate the population dynamics in a nation, created as a project in the course *Simulation of Complex Systems* at the [Chalmers University of Technology](http://www.chalmers.se/), Göteborg, Sweden.
 
+The project was conducted by [Frida Alsterlund](https://github.com/FridaA) and [Oscar Johander](https://github.com/ocyj)
+
 ## The size-rank Law and Urban Growth
 
 More specifically the mechanisms that generate a power-law distribution are examinated by extending an existing model based on a hierarchial economic flow within a nation.
