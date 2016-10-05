@@ -5,8 +5,9 @@ This is a simulation created in MATLAB to investigate the population dynamics in
 The inspiration came from
 
 
-![alt text](https://github.com/ocyj/city-growth/blob/master/figs/growthmodel_spatial.eps "Hierarchial network of cities")
+![alt text](https://raw.githubusercontent.com/ocyj/city-growth/master/figs/growthmodel_spatial.eps "Hierarchial network of cities")
 
+![alt text](https://raw.githubusercontent.com/ocyj/city-growth/master/figs/growthmodel_spatial_params.gif "Parameters used")
 
 The hierarchial network of cities retrieved after 40 000 iterations by the model based on growth rate rather than population size di-
 rectly.
