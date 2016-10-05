@@ -6,7 +6,7 @@ This is a simulation created in MATLAB to investigate the population dynamics in
 
 More specifically the mechanisms that generate a power-law distribution are examinated by extending an existing model based on a hierarchial economic flow within a nation.
 
-The inspiration came from **Semboloni, F.** (2008) Hierarchy, cities size distribution and Zipf's law. *The European Physical Journal B*, June 2008, Volume 63, Issue 3, pp 295–301. [link to springer.com](http://link.springer.com/article/10.1140/epjb/e2008-00203-1 "Link to springer.com")
+The inspiration came from **Semboloni, F.** (2008) "Hierarchy, cities size distribution and Zipf's law". *The European Physical Journal B*, June 2008, Volume 63, Issue 3, pp 295–301. [link to springer.com](http://link.springer.com/article/10.1140/epjb/e2008-00203-1 "Link to springer.com")
 
 From the abstract of our report:
 
@@ -18,6 +18,6 @@ From the abstract of our report:
 
 ![alt text](https://raw.githubusercontent.com/ocyj/city-growth/master/figs/growthmodel_spatial_params.gif "Parameters used")
 
-The figure above shows the hierarchial network of cities retrieved after 40 000 iterations by the model based on growth.
+The figure above shows a spatial distribution of the hierarchial network of cities retrieved after 40 000 iterations by the model based on growth.
 
 For the full report, click [here [pdf]](https://github.com/ocyj/city-growth/raw/master/report/SoCS_report.pdf "Click to download report")!
