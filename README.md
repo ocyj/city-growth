@@ -18,6 +18,6 @@ From the abstract of our report:
 
 ![alt text](https://raw.githubusercontent.com/ocyj/city-growth/master/figs/growthmodel_spatial_params.gif "Parameters used")
 
-The figure above shows a spatial distribution of the hierarchial network of cities retrieved after 40 000 iterations by the model based on growth.
+The figure above shows a spatial distribution of the hierarchial network of cities retrieved after 40 000 iterations by the model based on growth. The area of each circle corresponds to each city's population size.
 
 For the full report, click [here [pdf]](https://github.com/ocyj/city-growth/raw/master/report/SoCS_report.pdf "Click to download report")!
